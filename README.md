@@ -1,2 +1,0 @@
-# Gattaca
-Personal Storage
